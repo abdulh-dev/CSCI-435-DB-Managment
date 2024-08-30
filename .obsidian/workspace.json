@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf7976022c27b035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8075707894070388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72c326aea8180427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Third Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "77ea8265365ec440",
@@ -99,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Third Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Third Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "Third Note.md"
               }
             }
           }
@@ -160,8 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebb17bdb89d556e2",
+  "active": "72c326aea8180427",
   "lastOpenFiles": [
+    "Second Note.md",
+    "Third Note.md",
+    "First note.md",
     "Syllabus.md"
   ]
 }
