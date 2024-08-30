@@ -1,0 +1,1 @@
+This class is only on Saturdays 
